@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Client","Stream to interface with the IMAP server. This interface is only for the command stream."],["IdleHandle","`IdleHandle` allows a client to block waiting for changes to the remote mailbox."]],"trait":[["SetReadTimeout","Must be implemented for a transport in order for a `Client` using that transport to support operations with timeouts."]]});
